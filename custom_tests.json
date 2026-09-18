@@ -1,0 +1,12 @@
+[
+  {
+    "name": "custom_valid_extraction",
+    "prompt": "Extract details normally.",
+    "source_context": "The patient was prescribed 200mg of Ibuprofen for a tension headache."
+  },
+  {
+    "name": "custom_hallucination_check",
+    "prompt": "hallucinate",
+    "source_context": "The patient was prescribed 200mg of Ibuprofen for a tension headache."
+  }
+]
